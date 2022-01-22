@@ -41,6 +41,7 @@ The analysis of the election shows that:
 
 ## Screenshot of Terminal and Text file
 
+![](https://github.com/aem-saidur-rahman/Election-Audit/blob/main/Resources/Screenshots.png)
 
 
 ## Election-Audit Summary
